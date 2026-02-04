@@ -1,3 +1,6 @@
+# Data set acquisition method
+File shared via cloud drive: datasets十二zhonghaichong.zip Link: https://pan.baidu.com/s/1ZOOyg1O9Lry3Uy9bs-GulA Access Code: v2fq --Shared by Baidu Netdisk Super Member v2
+
 # Breast_cancer
 
 ## 🧠 Breast_cancer Training Guide
